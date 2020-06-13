@@ -1,8 +1,9 @@
 import React from 'react';
+import Bpp from './cod1.js'
 function App() {
   return (
     <div>
-      <h1>Hello World </h1>
+      <h1><Bpp dish="Chicken Karahi"/></h1>
     </div>
   );
 }
