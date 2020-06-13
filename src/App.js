@@ -4,7 +4,11 @@ function App() {
   return (
     <div>
       <h1><Bpp dish="Chicken Karahi and Pulao"/></h1>
-    </div>
+      <hr />
+      <h1><Bpp dish="Chicken Sajji and Zarda"/></h1>
+      <hr />
+      <h1><Bpp dish="Mutton chanp and Roghni naan"/></h1>
+      </div>
   );
 }
 
